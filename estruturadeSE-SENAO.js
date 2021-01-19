@@ -4,7 +4,7 @@
 
 
 
-/*
+
 
 if  (operacao == "+" ) {
 
@@ -23,4 +23,4 @@ if  (operacao == "+" ) {
 
 }
 document.getElementById("Paragrafo").innerText = resultado  
-}  valor1 e valor 2 sao strip */
+  valor1 e valor 2 sao strip  }
