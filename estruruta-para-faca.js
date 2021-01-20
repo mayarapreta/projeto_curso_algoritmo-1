@@ -1,29 +1,4 @@
-/*   
 
-numero,fatorial,cont:inteiro
-
-inicio
-
-escreval ("Digite o numero para calcular o fatorial.")
-
-leia(numero)
-
-
-
-fatorial := 1
-
-para cont de 1 ate numero faca
-
-fatorial := fatorial * cont
-
-fimpara
-
-escreva(" O fatorial de ", numero , " é ", fatorial )
-
-
-
-
-*/
 function acaoBotao() {
 
 var numero,fatorial,cont;
